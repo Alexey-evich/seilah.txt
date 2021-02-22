@@ -1,0 +1,2 @@
+# seilah.txt
+Não sei 
